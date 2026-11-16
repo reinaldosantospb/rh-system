@@ -33,7 +33,7 @@ The system allows users to register employees, manage a collection of payment re
 
 ## Project Structure
 
-![alt text](images/estrutura-projeto.png.png)
+!![Project Structure](<src/main/resources/images/Estrutura _Java _Projeto.png>)
 
 
 ## Package Organization
@@ -92,7 +92,7 @@ O sistema permite registar funcionários, gerir uma coleção de registos de pag
 
 ## Estrutura do Projeto
 
-![alt text](images/estrutura-projeto.png.png)
+![Project Structure](<src/main/resources/images/Estrutura _Java _Projeto.png>)
 
 ## Organização dos Pacotes
 
