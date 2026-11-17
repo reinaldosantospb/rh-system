@@ -40,7 +40,7 @@ The system allows users to register employees, manage a collection of payment re
 
 - **model**: Contains the `Payable` interface and employee classes (`Developer` and `Manager`).
 - **service**: Contains the `PayrollManagement` class, responsible for employee management and payroll calculations.
-- **com.portfolio**: Contains the `Main` class, which serves as the application's entry point.
+- **com.hrsystem**: Contains the `Main` class, which serves as the application's entry point.
 - **exception**: Contains custom exception classes, responsible for handling specific application errors, such as invalid salary values.
 - **util**: Contains utility classes with reusable helper methods, such as currency formatting and data validation.
 
@@ -98,7 +98,7 @@ O sistema permite registar funcionários, gerir uma coleção de registos de pag
 
 - **model**: Contém a interface `Pagavel` e as classes dos funcionários (`Desenvolvedor` e `Gerente`).
 - **service**: Contém a classe `FolhaDePagamento`, responsável pela gestão dos funcionários e pelos cálculos da folha de pagamentos.
-- **com.portfolio**: Contém a classe `Main`, que representa o ponto de entrada da aplicação.
+- **com.hrsystem**: Contém a classe `Main`, que representa o ponto de entrada da aplicação.
 - **exception**: Contém classes de exceções personalizadas, responsáveis pelo tratamento de erros específicos da aplicação, como valores salariais inválidos.
 - **util**: Contém classes utilitárias com métodos auxiliares reutilizáveis, como formatação de valores monetários e validação de dados.
 
